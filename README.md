@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 | 8 | [jdbc-pool](https://github.com/DeepTechDiver/Middleware-of-Handwriting) | 手写数据库连接池实现 | 学习,中间件 |
 | 9 | [数据结构算法](https://github.com/DeepTechDiver/DataStructures-and-Algorithms) | 数据结构算法 | 学习笔记 |
 | 10 | [Golang全栈](https://github.com/DeepTechDiver/basic) | Golang全栈 | 学习笔记 |
+| 11 | [FastGin](https://github.com/DeepTechDiver/FastGin) | 基于Gin的快速开发脚手架 | 脚手架 |
+
